@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://alastairs.github.io//github
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://bobthebuilder.github.io
+title: Bob the Builder
+subtitle: Can we build it? Yes we can!
+author: Alastair Smith
 simple_search: https://www.google.com/search
 description:
 
